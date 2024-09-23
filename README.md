@@ -71,7 +71,8 @@ plot_pacf(ARMA_2)
 ```
 OUTPUT:
 SIMULATED ARMA(1,1) PROCESS:
-<img src="https://github.com/user-attachments/assets/809ab609-fa7d-4e6a-ada1-67795828501a" height="80%" width="60%">
+
+<img src="https://github.com/user-attachments/assets/809ab609-fa7d-4e6a-ada1-67795828501a" width="60%">
 
 Partial Autocorrelation:
 ![image](https://github.com/user-attachments/assets/392dd6f3-61d8-4b97-9091-1eae6218549f)
